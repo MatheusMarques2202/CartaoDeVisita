@@ -89,7 +89,7 @@ fun CartaoDeVisita() {
                     .clip(CircleShape)
             )
             Text(
-                text = "Matheus Marques de Lima Silva ",
+                text = "Matheus Marques de Lima Silva  ",
                 fontSize = 20.sp,
                 fontWeight = FontWeight.Bold
             )
@@ -107,7 +107,7 @@ fun CartaoDeVisita() {
         Column {
             Contato(
                 id = R.drawable.icons8_whatsapp,
-                contato = "(11) 949548-9221"
+                contato = "(11) 94954-8991"
             )
             Contato(
                 id = R.drawable.icons8_email,
